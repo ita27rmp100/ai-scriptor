@@ -4,7 +4,7 @@ from groq import Groq
 api_key = ""
 def request_response(prompt, max_tokens=4096, temperature=0.7):
     client = Groq(
-        api_key="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",
+        api_key="",
     )
 
     chat_completion = client.chat.completions.create(
