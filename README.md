@@ -82,4 +82,4 @@ MIT License — free to use and modify.
 
 ## 👨‍💻 Author
 
-Made with ❤️ by @ira27rmp100
+Made with ❤️ by @ita27rmp100
