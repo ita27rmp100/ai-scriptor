@@ -1,4 +1,3 @@
-
 # AI-SCRIPTOR
 
 **AI-SCRIPTOR** is an on-demand, AI-assisted script generator that allows users to dynamically generate and save Python, JavaScript - or any programming language you want -scripts based on high-level ideas. The generated scripts are automatically written to files and committed to a Git repository.
@@ -82,4 +81,4 @@ MIT License — free to use and modify.
 
 ## 👨‍💻 Author
 
-Made with ❤️ by @ira27rmp100
+Made with ❤️ by @ita27rmp100
