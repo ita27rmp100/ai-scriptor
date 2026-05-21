@@ -1,0 +1,6 @@
+groq
+termcolor
+dotenv
+firebase_admin
+email
+smtplib
